@@ -8,5 +8,5 @@ keras
 pathlib
 matplotlib
 python-resize-image
-protobuf==3.20.1
+protobuf>=3.20.3,<4.21.0
 
